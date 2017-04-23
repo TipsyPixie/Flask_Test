@@ -3,3 +3,4 @@
 
 #installed package info
 .yukio.egg-info/*
+.idea/ 제거할 예정
