@@ -1,0 +1,5 @@
+#Pycharm settings
+.idea/*
+
+#installed package info
+.yukio.egg-info/*

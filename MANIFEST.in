@@ -1,0 +1,3 @@
+graft yukio/templates
+graft yukio/static
+graft yukio/db
