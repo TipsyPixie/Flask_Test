@@ -1,3 +1,3 @@
 Flask Tutorial
 
-Making a twitter-ish pages wih flask!
+Making a twitter-ish pages with flask!
